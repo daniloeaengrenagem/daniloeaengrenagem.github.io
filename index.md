@@ -1,25 +1,12 @@
-<!doctype html>
-<html lang="pt-BR">
-<head>
-  <meta charset="utf-8" />
-  <title>Danilo Sanches e a Engrenagem</title>
+---
+layout: default
+title: Danilo Sanches e a Engrenagem
+description: Projeto musical autoral brasileiro, entre MPB alternativa e indie, com letras sobre trabalho, cotidiano e experiência urbana contemporânea.
+---
 
-  <meta name="description" content="Projeto musical brasileiro de MPB alternativa e indie, com letras sobre trabalho, cotidiano e sentimentos, dialogando com a cena urbana e autoral contemporânea." />
-</head>
+# Danilo Sanches e a Engrenagem
 
-<body>
-  <h1>Danilo Sanches e a Engrenagem</h1>
+Projeto musical autoral brasileiro, entre MPB alternativa e indie, com foco em letras sobre trabalho, cotidiano e vida urbana.
 
-  <p>
-    Projeto musical autoral da cena brasileira contemporânea,
-    entre MPB e indie, com foco em letras sobre cotidiano,
-    trabalho e experiência urbana.
-  </p>
-  <p>
-  <a href="/canção-trabalho-cotidiano.html">
-    Canção, trabalho e cotidiano no projeto
-  </a>
-</p>
-
-</body>
-</html>
+- [Sobre](/sobre/)
+- [Textos](/textos/)
